@@ -1,0 +1,101 @@
+shipment_id,origin,destination,pickup_date,delivery_date,carrier,status,weight_kg,distance_km,expected_transit_hours
+S1001,Mumbai,Hyderabad,01-01-2026,01-01-2026,Delhivery,Pending,378.5,1226,23.43
+S1002,Nashik,Hyderabad,03-01-2026,03-01-2026,DHL,Delayed,56.05,1559,28.98
+S1003,Nagpur,Bengaluru,05-01-2026,06-01-2026,Delhivery,Delivered,451.76,960,19.0
+S1004,Mumbai,Delhi,07-01-2026,07-01-2026,Blue Dart,Pending,255.1,1394,26.23
+S1005,Mumbai,Bengaluru,09-01-2026,09-01-2026,Blue Dart,Delivered,414.1,1230,23.5
+S1006,Pune,Delhi,11-01-2026,11-01-2026,Blue Dart,Delivered,,1195,22.92
+S1007,Nashik,Ahmedabad,13-01-2026,13-01-2026,Delhivery,Pending,448.28,1144,22.07
+S1008,Nashik,Hyderabad,15-01-2026,16-01-2026,DHL,Delivered,197.65,1738,31.97
+S1009,Pune,Ahmedabad,17-01-2026,17-01-2026,DHL,Delayed,10.36,221,6.68
+S1010,Pune,Delhi,19-01-2026,19-01-2026,Delhivery,Delivered,453.16,566,12.43
+S1011,Nashik,Delhi,21-01-2026,22-01-2026,Blue Dart,Pending,50.19,1338,25.3
+S1012,Nashik,Ahmedabad,23-01-2026,23-01-2026,Blue Dart,Pending,163.06,430,10.17
+S1013,Nagpur,Delhi,25-01-2026,26-01-2026,,Pending,475.28,1582,29.37
+S1014,Nagpur,Ahmedabad,27-01-2026,27-01-2026,Blue Dart,Delivered,475.55,187,6.12
+S1015,Pune,Hyderabad,29-01-2026,29-01-2026,FedEx,Pending,288.85,1496,27.93
+S1016,Nagpur,Ahmedabad,31-01-2026,01-02-2026,DHL,Pending,317.76,1223,23.38
+S1017,Mumbai,Hyderabad,02-02-2026,02-02-2026,Blue Dart,Delivered,226.98,971,19.18
+S1018,Nagpur,Ahmedabad,04-02-2026,05-02-2026,DHL,Delayed,150.14,1787,32.78
+S1019,Nagpur,Delhi,06-02-2026,06-02-2026,FedEx,Delivered,167.69,230,6.83
+S1020,Mumbai,Ahmedabad,08-02-2026,09-02-2026,DHL,Pending,337.9,1785,32.75
+S1021,Pune,Delhi,10-02-2026,11-02-2026,FEDEX,Pending,377.43,1432,26.87
+S1022,Mumbai,Ahmedabad,12-02-2026,12-02-2026,DHL,Delivered,396.83,869,17.48
+S1023,Nagpur,Ahmedabad,14-02-2026,14-02-2026,DHL,Delayed,395.86,443,10.38
+S1024,Pune,Bengaluru,16-02-2026,17-02-2026,FedEx,Pending,50.15,1615,29.92
+S1025,Nagpur,Delhi,18-02-2026,19-02-2026,Delhivery,Pending,249.74,1537,28.62
+S1026,Mumbai,Bengaluru,20-02-2026,21-02-2026,DHL,Pendingg,33.49,905,18.08
+S1027,Mumbai,Delhi,22-02-2026,22-02-2026,DHL,Delivered,277.02,485,11.08
+S1028,Nagpur,Bengaluru,24-02-2026,25-02-2026,Blue Dart,Pending,223.56,1315,24.92
+S1029,Nashik,Hyderabad,26-02-2026,28-02-2026,DHL,Delayed,444.41,1055,20.58
+S1030,Nashik,Ahmedabad,28-02-2026,28-02-2026,Blue Dart,Pending,178.7,376,9.27
+S1031,Mumbai,Delhi,02-03-2026,02-03-2026,Delhivery,Pending,62.95,-50,24.4
+S1032,Mumbai,Delhi,04-03-2026,04-03-2026,FedEx,Delayed,75.78,559,12.32
+S1033,Nashik,Ahmedabad,06-03-2026,06-03-2026,FedEx,Pending,381.95,1437,26.95
+S1034,Nashik,Delhi,08-03-2026,08-03-2026,Delhivery,Delivered,311.02,121,5.02
+S1035,Nagpur,Delhi,10-03-2026,10-03-2026,FedEx,Delivered,55.06,352,8.87
+S1036,Nagpur,Bengaluru,12-03-2026,12-03-2026,Delhivery,Delivered,46.63,847,17.12
+S1037,Nashik,Delhi,14-03-2026,14-03-2026,Delhivery,Delayed,351.98,956,18.93
+S1038,Nagpur,Hyderabad,16-03-2026,16-03-2026,Delhivery,Pending,41.02,1684,31.07
+S1039,Nagpur,Hyderabad,18-03-2026,18-03-2026,FedEx,Delivered,411.82,574,12.57
+S1040,Pune,Ahmedabad,20-03-2026,21-03-2026,Blue Dart,Delayed,354.59,1182,22.7
+S1041,Nagpur,Delhi,22-03-2026,,Delhivery,Pending,45.27,610,13.17
+S1042,Mumbai,Ahmedabad,24-03-2026,25-03-2026,DHL,Delayed,46.99,1599,29.65
+S1043,Nagpur,Hyderabad,26-03-2026,26-03-2026,FedEx,Delivered,493.39,799,16.32
+S1044,Nagpur,Delhi,28-03-2026,29-03-2026,Delhivery,Delivered,190.26,1075,20.92
+S1045,Nashik,Delhi,30-03-2026,30-03-2026,Delhivery,Delivered,188.47,289,7.82
+S1046,Mumbai,Ahmedabad,01-04-2026,01-04-2026,DHL,Delayed,407.34,1057,20.62
+S1047,Nagpur,Hyderabad,03-04-2026,04-04-2026,Blue Dart,Delayed,473.89,786,16.1
+S1048,Nagpur,Delhi,05-04-2026,05-04-2026,Blue Dart,Delivered,493.07,1057,20.62
+S1049,Pune,Ahmedabad,07-04-2026,07-04-2026,Blue Dart,Delayed,377.92,662,14.03
+S1050,Nagpur,Hyderabad,09-04-2026,10-04-2026,Delhivery,Delivered,191.25,1690,31.17
+S1050,Nagpur,Ahmedabad,11-04-2026,12-04-2026,Delhivery,Delivered,46.33,1367,25.78
+S1052,Pune,Bengaluru,13-04-2026,13-04-2026,Delhivery,Pending,389.69,931,18.52
+S1053,Nashik,Delhi,15-04-2026,16-04-2026,FedEx,Delayed,281.41,1628,30.13
+S1054,Nagpur,Bengaluru,17-04-2026,17-04-2026,DHL,Delivered,214.99,1254,23.9
+S1055,Pune,Hyderabad,19-04-2026,19-04-2026,Delhivery,Delivered,453.65,1608,29.8
+S1056,Mumbai,Bengaluru,21-04-2026,21-04-2026,DHL,Delayed,60.04,746,15.43
+S1057,Nashik,Bengaluru,23-04-2026,23-04-2026,DHL,Pending,248.85,120,5.0
+S1058,Mumbai,Hyderabad,25-04-2026,25-04-2026,Blue Dart,Pending,10.62,940,18.67
+S1059,Mumbai,Ahmedabad,27-04-2026,27-04-2026,FedEx,Delivered,236.99,266,7.43
+S1060,Pune,Bengaluru,29-04-2026,30-04-2026,Delhivery,Delayed,32.87,1397,26.28
+S1061,Nagpur,Ahmedabad,01-05-2026,01-05-2026,Blue Dart,Pending,63.81,487,11.12
+S1062,Pune,Bengaluru,03-05-2026,03-05-2026,Blue Dart,Delayed,63.18,700,14.67
+S1063,Pune,Ahmedabad,05-05-2026,05-05-2026,Delhivery,Delayed,326.36,415,9.92
+S1064,Pune,Hyderabad,07-05-2026,07-05-2026,DHL,Delivered,374.29,113,4.88
+S1065,Pune,Bengaluru,09-05-2026,09-05-2026,Blue Dart,Pending,293.77,341,8.68
+S1066,Nashik,Hyderabad,11-05-2026,11-05-2026,DHL,Delivered,481.28,876,17.6
+S1067,Nagpur,Bengaluru,13-05-2026,13-05-2026,FedEx,Pending,190.56,1469,27.48
+S1068,Mumbai,Hyderabad,15-05-2026,15-05-2026,DHL,Pending,146.43,664,14.07
+S1069,Mumbai,Hyderabad,17-05-2026,17-05-2026,FedEx,Pending,434.96,997,19.62
+S1070,Nagpur,Bengaluru,19-05-2026,20-05-2026,DHL,Pending,115.68,1463,27.38
+S1071,Mumbai,Bengaluru,21-05-2026,21-05-2026,Blue Dart,Pending,481.8,191,6.18
+S1072,Nagpur,Bengaluru,23-05-2026,24-05-2026,Blue Dart,Delayed,11.02,1490,27.83
+S1073,Mumbai,Delhi,25-05-2026,26-05-2026,FedEx,Delivered,485.09,1055,20.58
+S1074,Pune,Ahmedabad,27-05-2026,28-05-2026,Delhivery,Delayed,26.36,1578,29.3
+S1075,Mumbai,Delhi,29-05-2026,30-05-2026,FedEx,Pending,446.12,1551,28.85
+S1076,Nagpur,Delhi,31-05-2026,31-05-2026,FedEx,Delivered,266.21,608,13.13
+S1077,Nagpur,Hyderabad,02-06-2026,02-06-2026,DHL,Pending,496.52,875,17.58
+S1078,Nagpur,Bengaluru,04-06-2026,04-06-2026,DHL,Delivered,41.53,134,5.23
+S1079,Nagpur,Ahmedabad,06-06-2026,06-06-2026,FedEx,Delayed,279.16,305,8.08
+S1080,Nagpur,Hyderabad,08-06-2026,08-06-2026,Blue Dart,Delivered,484.8,1204,23.07
+S1081,Nashik,Delhi,10-06-2026,11-06-2026,DHL,Delivered,263.93,1685,31.08
+S1082,Nashik,Bengaluru,12-06-2026,13-06-2026,Delhivery,Delivered,316.55,1511,28.18
+S1083,Mumbai,Hyderabad,14-06-2026,14-06-2026,DHL,Delivered,349.4,1125,21.75
+S1084,Nagpur,Bengaluru,16-06-2026,17-06-2026,DHL,Delivered,230.0,1121,21.68
+S1085,Mumbai,Hyderabad,18-06-2026,19-06-2026,Delhivery,Pending,315.64,1513,28.22
+S1086,Nagpur,Bengaluru,20-06-2026,21-06-2026,FedEx,Delivered,294.24,665,14.08
+S1087,Nagpur,Delhi,22-06-2026,22-06-2026,Delhivery,Delivered,451.07,1229,23.48
+S1088,Nashik,Ahmedabad,24-06-2026,25-06-2026,FedEx,Delayed,27.5,1600,29.67
+S1089,Nashik,Delhi,26-06-2026,26-06-2026,FedEx,Delivered,144.08,802,16.37
+S1090,Pune,Ahmedabad,28-06-2026,28-06-2026,FedEx,Delayed,475.45,501,11.35
+S1091,Nashik,Bengaluru,30-06-2026,01-07-2026,Delhivery,Pending,445.68,829,16.82
+S1092,Pune,Hyderabad,02-07-2026,03-07-2026,FedEx,Delivered,230.55,1679,30.98
+S1093,Pune,Delhi,04-07-2026,04-07-2026,Blue Dart,Delayed,311.97,261,7.35
+S1094,Pune,Ahmedabad,06-07-2026,06-07-2026,Delhivery,Delayed,142.3,301,8.02
+S1095,Pune,Delhi,08-07-2026,09-07-2026,Blue Dart,Pending,98.12,1095,21.25
+S1096,Pune,Ahmedabad,10-07-2026,10-07-2026,FedEx,Delivered,234.53,369,9.15
+S1097,Mumbai,Delhi,12-07-2026,12-07-2026,DHL,Delivered,179.91,915,18.25
+S1098,Nashik,Ahmedabad,14-07-2026,14-07-2026,FedEx,Delayed,293.91,1394,26.23
+S1099,Pune,Ahmedabad,16-07-2026,16-07-2026,Blue Dart,Delivered,43.48,555,12.25
+S1100,Nagpur,Bengaluru,18-07-2026,19-07-2026,Blue Dart,Delayed,487.33,1585,29.42
